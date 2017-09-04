@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0,0,1400,700" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<g>
+		<title>background</title>
+		<rect x="-1" y="-1" width="1402" height="702" id="canvas_background" fill="#fff" />
+		<g id="canvasGrid">
+			<rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)" />
+		</g>
+	</g>
+	<g>
+		<g id="pipelines">
+			<line stroke="brown" stroke-width="5" x1="508" y1="287.5" x2="508" y2="422.5" id="svg_23" />
+			<line stroke="brown" stroke-width="5" x1="508" y1="457.3" x2="508" y2="592.3" id="svg_105" />
+			<line stroke="green" stroke-width="5" x1="662.6" y1="286" x2="1083" y2="286" id="svg_100" />
+			<line stroke="green" stroke-width="5" x1="460.5" y1="286" x2="628" y2="286" id="svg_6" />
+			<line stroke="green" stroke-width="5" x1="210.6" y1="286" x2="425.6" y2="286" id="svg_99" />
+			<line stroke="green" stroke-width="5" x1="1080.5" y1="46" x2="1080.5" y2="286" id="svg_5" />
+			<line stroke="green" stroke-width="5" x1="210" y1="440" x2="263" y2="440" id="svg_26" />
+			<line stroke="green" stroke-width="5" x1="298" y1="440" x2="333" y2="440" id="svg_104" />
+			<line stroke="green" stroke-width="5" x1="330" y1="440" x2="330" y2="594" id="svg_32" />
+			<line stroke="green" stroke-width="5" x1="586" y1="376" x2="628" y2="376" id="svg_106" />
+			<line stroke="green" stroke-width="5" x1="662" y1="376" x2="726" y2="376" id="svg_51" />
+			<line stroke="green" stroke-width="5" x1="724" y1="288" x2="724" y2="376" id="svg_52" />
+			<line stroke="green" stroke-width="5" x1="588" y1="376" x2="588" y2="594" id="svg_50" />
+			<line stroke="blue" stroke-width="5" x1="210.6" y1="594" x2="425.6" y2="594" id="svg_103" />
+			<line stroke="blue" stroke-width="5" x1="460.5" y1="594" x2="628" y2="594" id="svg_102" />
+			<line stroke="blue" stroke-width="5" x1="662.7" y1="594" x2="1351" y2="594" id="svg_101" />
+			<line stroke="blue" stroke-width="5" x1="548" y1="287" x2="548" y2="506" id="svg_48" />
+			<line stroke="blue" stroke-width="5" x1="549" y1="504" x2="628" y2="504" id="svg_107" />
+			<line stroke="blue" stroke-width="5" x1="662" y1="504" x2="690" y2="504" id="svg_49" />
+			<line stroke="blue" stroke-width="5" x1="687" y1="504" x2="687" y2="592" id="svg_53" />
+			<line stroke="blue" stroke-width="5" x1="1348" y1="352" x2="1348" y2="592" id="svg_31" />
+		</g>
+
+		<!-- 盾首 -->
+		<rect fill="#ff5656" stroke="#000000" stroke-width="1.5" x="100.5" y="235" width="54" height="409" id="svg_28" />
+		<rect fill="none" stroke="#000000" stroke-width="1.5" x="157.5" y="248" width="54" height="383" id="svg_24" />
+		<path fill="#191919" stroke="#000000" stroke-width="1.5" d="m100,360 l-32,80 l32,80 z" id="svg_30" />
+		<line stroke="#000000" stroke-width="1.5" x1="184.5" y1="314" x2="184.5" y2="563" id="svg_36" />
+		<!-- 盾首上 -->
+		<rect fill="none" stroke="#000" stroke-width="1.5" x="157.5" y="235" width="286" height="8" id="svg_25" />
+		<!-- 盾首下 -->
+		<rect fill="none" stroke="#000" stroke-width="1.5" x="157.5" y="636" width="286" height="8" id="svg_27" />
+
+		<text fill="#000000" stroke="#000" stroke-width="0" x="100" y="186" id="svg_242" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">切口环压力:</text>
+		<text fill="#000000" stroke="#000" stroke-width="0" x="100" y="210" id="svg_243" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">轴线压力:</text>
+
+		<text fill="#000000" stroke="#000" stroke-width="0" x="165" y="186" id="A0004" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">A0004</text>
+		<text fill="#000000" stroke="#000" stroke-width="0" x="165" y="210" id="A0012" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">A0012</text>
+
+		<text fill="#000000" stroke="#000" stroke-width="0" x="170" y="186" id="svg_248" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">bar</text>
+		<text fill="#000000" stroke="#000" stroke-width="0" x="170" y="210" id="svg_249" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">bar</text>
+
+		<g id="arrows">
+			<!-- 盾首向上箭头 -->
+			<path id="arrow_1" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m174,313.5 l10.5,-46 l10.5,46 z" />
+
+			<!-- 盾首向下箭头 -->
+			<path id="arrow_2" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m174,560 l10.5,46 l10.5,-46 z" />
+
+			<!-- 进浆阀左边右向箭头 -->
+			<path id="arrow_3" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m320,275.5 l46,10.5 l-46,10.5 z" />
+
+			<!-- 进浆阀左边左向箭头 -->
+			<path id="arrow_4" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m300,275.5 l-46,10.5 l46,10.5 z" />
+
+			<!-- 进浆阀右边左向箭头 -->
+			<path id="arrow_5" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m800,275.5 l-46,10.5 l46,10.5 z" />
+
+			<!-- 排浆阀左边右向箭头 -->
+			<path id="arrow_6" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m360,583.5 l46,10.5 l-46,10.5 z" />
+
+			<!-- 排浆阀左边左向箭头 -->
+			<path id="arrow_7" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m300,583.5 l-46,10.5 l46,10.5 z" />
+
+			<!-- 排浆阀右边右向箭头 -->
+			<path id="arrow_8" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m930,583.5 l46,10.5 l-46,10.5 z" />
+
+			<!-- 蓝色管道向下箭头 -->
+			<path id="arrow_9" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m537.8,310 l10.5,46 l10.5,-46 z" />
+
+			<!-- 逆循环进浆阀向下箭头 -->
+			<path id="arrow_10" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m577.8,420 l10.5,46 l10.5,-46 z" />
+
+			<!-- 旁通阀上 向下箭头 -->
+			<path id="arrow_11" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m497.8,340 l10.5,46 l10.5,-46 z" />
+
+			<!-- 旁通阀下 向下箭头 -->
+			<path id="arrow_12" class="arrow" fill="green" stroke="#000" stroke-width="0.5" d="m497.8,500.5 l10.5,46 l10.5,-46 z" />
+		</g>
+		<g id="motors">
+			<g id="motor_1">
+				<!-- 进浆泵 P1.1 -->
+				<text fill="#000000" stroke="#000" stroke-width="0" x="1116.5" y="116" id="svg_54" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">P1.1</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="930" y="112" id="svg_541" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">电流:</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="930" y="136" id="svg_542" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">速度:</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="930" y="160" id="svg_543" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">出口压力:</text>
+
+				<text fill="#000000" stroke="#000" stroke-width="0" x="995" y="112" id="R0015" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0015</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="995" y="136" id="R0016" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0016</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="995" y="160" id="R0018" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0018</text>
+
+				<text fill="#000000" stroke="#000" stroke-width="0" x="1000" y="112" id="svg_547" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">A</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="1000" y="136" id="svg_548" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">%</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="1000" y="160" id="svg_549" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">bar</text>
+
+				<path fill="#0000ff" stroke="#000" stroke-width="1.5" d="m1055.25,154.108124l26,-32l26,32l-52,0z" id="svg_7" />
+				<ellipse fill="#0000ff" stroke="#000" stroke-width="1.5" cx="1080.75" cy="119" id="svg_8" rx="25" ry="25" />
+				<ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="1080.75" cy="119" id="svg_9" rx="10" ry="10" />
+			</g>
+			<g id="motor_2">
+				<!-- 上方不知名泵 -->
+				<text fill="#000000" stroke="#000" stroke-width="0" x="850" y="275" id="svg_501" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">流量:</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="850" y="312" id="svg_502" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">密度:</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="850" y="336" id="svg_503" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">压力:</text>
+
+				<text fill="#000000" stroke="#000" stroke-width="0" x="915" y="275" id="R0026" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0026</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="915" y="312" id="R0027" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0027</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="915" y="336" id="R0025" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0025</text>
+
+				<text fill="#000000" stroke="#000" stroke-width="0" x="920" y="275" id="svg_507" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">m3/h</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="920" y="312" id="svg_508" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">kg/l</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="920" y="336" id="svg_509" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">bar</text>
+
+				<path fill="#0000ff" stroke="#000" stroke-width="1.5" d="m975,320 l26,-32 l26,32 z" id="svg_13" />
+				<ellipse fill="#0000ff" stroke="#000" stroke-width="1.5" cx="1000" cy="285" id="svg_14" rx="25" ry="25" />
+				<ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="1000" cy="285" id="svg_15" rx="10" ry="10" />
+			</g>
+			<g id="motor_3">
+				<!-- 排浆泵 -->
+				<text fill="#000000" stroke="#000" stroke-width="0" x="745.5" y="556" id="svg_55" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">P2.1</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="880" y="522" id="svg_551" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">电流:</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="880" y="546" id="svg_552" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">速度:</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="880" y="570" id="svg_553" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">出口压力:</text>
+
+				<text fill="#000000" fixed="2" stroke="#000" stroke-width="0" x="945" y="522" id="R0001" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0001</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="945" y="546" id="R0002" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0002</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="945" y="570" id="R0004" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0004</text>
+
+				<text fill="#000000" stroke="#000" stroke-width="0" x="950" y="522" id="svg_557" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">A</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="950" y="546" id="svg_558" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">%</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="950" y="570" id="svg_559" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">bar</text>
+
+				<path fill="#0000ff" stroke="#000" stroke-width="1.5" d="m746,629 l26,-32 l26,32 z" id="svg_19" />
+				<ellipse fill="#0000ff" stroke="#000" stroke-width="1.5" cx="771.75" cy="594" id="svg_20" rx="25" ry="25" />
+				<ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="771.75" cy="594" id="svg_21" rx="10" ry="10" />
+			</g>
+			<g id="motor_4">
+				<!-- 下方右边不知名泵 -->
+				<path fill="#0000ff" stroke="#000" stroke-width="1.5" d="m1191,629 l26,-32 l26,32 z" id="svg_16" />
+				<ellipse fill="#0000ff" stroke="#000" stroke-width="1.5" cx="1216.75" cy="594" id="svg_17" rx="25" ry="25" />
+				<ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="1216.75" cy="594" id="svg_18" rx="10" ry="10" />
+			</g>
+			<g id="motor_5">
+				<!-- P0.1 -->
+				<text fill="#000000" stroke="#000" stroke-width="0" x="260" y="524" id="svg_56" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">P0.1</text>
+
+				<text fill="#000000" stroke="#000" stroke-width="0" x="340" y="450" id="svg_561" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">压力:</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="340" y="474" id="svg_562" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">流量:</text>
+
+				<text fill="#000000" stroke="#000" stroke-width="0" x="440" y="450" id="R0009" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0009</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="440" y="474" id="R0057" class="value" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="end" xml:space="preserve">R0057</text>
+
+				<text fill="#000000" stroke="#000" stroke-width="0" x="445" y="450" id="svg_565" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">bar</text>
+				<text fill="#000000" stroke="#000" stroke-width="0" x="445" y="474" id="svg_566" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">m³/h</text>
+				<path fill="#0000ff" stroke="#000" stroke-width="1.5" d="m304,551 l26,-32 l26,32 z" id="svg_33" />
+				<ellipse fill="#0000ff" stroke="#000" stroke-width="1.5" cx="330" cy="516" id="svg_34" rx="25" ry="25" />
+				<ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="330" cy="516" id="svg_35" rx="10" ry="10" />
+			</g>
+		</g>
+		<g id="valves">
+			<g id="valve_1" class="valve">
+				<!-- 进浆阀 -->
+				<text fill="black" x="412.5" y="264" id="svg_46" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">进浆阀</text>
+				<ellipse fill="none" stroke="#000" stroke-width="1.5" cx="443.2" cy="286" id="svg_87" rx="17" ry="17" />
+				<line class="open" stroke="green" stroke-width="5" x1="426.2" y1="286" x2="460" y2="286" id="svg_88" style="display:none" />
+				<line class="close" stroke="green" stroke-width="5" x1="443.5" y1="269.7" x2="443.5" y2="303" id="svg_89" style="display:none" />
+			</g>
+			<g id="valve_2" class="valve">
+				<!-- 上边的无名阀 -->
+				<ellipse fill="none" stroke="#000" stroke-width="1.5" cx="645" cy="286" id="svg_2" rx="17" ry="17" />
+				<line class="open" stroke="green" stroke-width="5" x1="628" y1="286" x2="662" y2="286" id="svg_3" style="display:none" />
+				<line class="close" stroke="#000" stroke-width="5" x1="645.3" y1="269.7" x2="645.3" y2="303" id="svg_4" style="display:none" />
+			</g>
+			<g id="valve_3" class="valve">
+				<!-- 逆循环进浆阀 -->
+				<text fill="black" x="596.5" y="415" id="svg_58" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">逆循环进浆阀</text>
+				<ellipse fill="none" stroke="#000" stroke-width="1.5" cx="645" cy="376" id="svg_11" rx="17" ry="17" />
+				<line class="open" stroke="green" stroke-width="5" x1="628" y1="376" x2="662" y2="376" id="svg_12" style="display:none" />
+				<line class="close" stroke="green" stroke-width="5" x1="645.3" y1="360" x2="645.3" y2="393" id="svg_29" style="display:none" />
+			</g>
+			<g id="valve_4" class="valve">
+				<!-- 中心冲洗阀 -->
+				<text fill="black" x="227.5" y="410" id="svg_45" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">中心冲洗阀</text>
+				<ellipse fill="none" stroke="black" stroke-width="1.5" cx="280.2" cy="440" id="svg_95" rx="17" ry="17" />
+				<line class="open" stroke="green" stroke-width="5" x1="263.2" y1="440" x2="297.2" y2="440" id="svg_96" style="display:none" />
+				<line class="close" stroke="green" stroke-width="5" x1="280.5" y1="423.8" x2="280.5" y2="457" id="svg_97" style="display:none" />
+			</g>
+			<g id="valve_5" class="valve">
+				<!-- 机内旁通阀 -->
+				<text fill="black" x="401.5" y="411" id="svg_57" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">机内旁通阀</text>
+				<ellipse fill="none" stroke="#000" stroke-width="1.5" cx="507.7" cy="440" id="svg_83" rx="17" ry="17" />
+				<line class="close" stroke="brown" stroke-width="5" x1="490.7" y1="440" x2="524.7" y2="440" id="svg_84" style="display:none" />
+				<line class="open" stroke="brown" stroke-width="5" x1="508" y1="423.8" x2="508" y2="457" id="svg_85" style="display:none" />
+			</g>
+			<g id="valve_6" class="valve">
+				<!-- 逆循环排浆阀 -->
+				<text fill="black" x="596.5" y="479" id="svg_59" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">逆循环排浆阀</text>
+				<ellipse fill="none" stroke="#000" stroke-width="1.5" cx="645" cy="504" id="svg_39" rx="17" ry="17" />
+				<line class="open" stroke="blue" stroke-width="5" x1="628" y1="504" x2="662" y2="504" id="svg_40" style="display:none" />
+				<line class="close" stroke="blue" stroke-width="5" x1="645.3" y1="487.6" x2="645.3" y2="521" id="svg_77" style="display:none" />
+			</g>
+			<g id="valve_7" class="valve">
+				<!-- 排浆阀 -->
+				<text fill="black" x="412.5" y="630" id="svg_47" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">排浆阀</text>
+				<ellipse fill="none" stroke="#000" stroke-width="1.5" cx="443.2" cy="594" id="svg_91" rx="17" ry="17" />
+				<line class="open" stroke="blue" stroke-width="5" x1="426.2" y1="594" x2="460.2" y2="594" id="svg_92" style="display:none" />
+				<line class="close" stroke="blue" stroke-width="5" x1="443.5" y1="578" x2="443.5" y2="611" id="svg_93" style="display:none" />
+			</g>
+			<g id="valve_8" class="valve">
+				<!-- 下边的无名阀 -->
+				<ellipse fill="none" stroke="#000" stroke-width="1.5" cx="645" cy="594" id="svg_79" rx="17" ry="17" />
+				<line class="open" stroke="blue" stroke-width="5" x1="628" y1="594" x2="662" y2="594" id="svg_80" style="display:none" />
+				<line class="close" stroke="blue" stroke-width="5" x1="645.3" y1="577.8" x2="645.3" y2="611" id="svg_81" style="display:none" />
+			</g>
+		</g>
+	</g>
+</svg>
